@@ -1,1 +1,1 @@
-python -i RichPres.py
+python3 -i RichPres.py
