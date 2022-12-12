@@ -26,5 +26,3 @@ while True:
     print(cpu)
     RPC.update(state=("CPU " + cpu + "% RAM " + ram + "%"),start=int(startTime),details=winVersion)
     time.sleep(10)
-
-i = input("no");
