@@ -42,7 +42,7 @@ print("connected I hope")
 RPC.update(start=int(time.time()),state="On Desktop",details=winVersion)
 print("ok actually connected")
 
-print("Updating every " + updateTime + " seconds")
+print("Updating every " + str(updateTime) + " seconds")
 print("CTRL-D to exit")
 #--loop--
 while True:
