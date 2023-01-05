@@ -3,6 +3,6 @@
  
  for Linux and Windows
  
- setup file installs psutil and pypresence
+ setup file installs psutil, pypresence, gputil, and pyadl
  
- run runs the command python -i
+ run runs the command python3 RichPres.py
