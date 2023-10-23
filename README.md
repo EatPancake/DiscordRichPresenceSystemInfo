@@ -1,4 +1,6 @@
 # DiscordRichPresenceSystemInfo
+Curently only works on linux
+
  Uses discord rich presence to display basic system info
  
  for Linux and Windows
